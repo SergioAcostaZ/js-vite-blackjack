@@ -46,5 +46,5 @@ let puntosComputadora=0;
         } else {
             alert('Computadora Gana')
         }
-    }, 100 );
+    }, 200 );
 }
